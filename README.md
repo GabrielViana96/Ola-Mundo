@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositorio
+# Olá, Mundo!
+ Primeiro repositorio 
+ repositorio criado durante a aula
+ 
